@@ -2,9 +2,10 @@
 
 Implement lexical analyzer (scanner) by Lex and syntax analyzer (parser) by Yacc.
 
-Also, check semantic correctness by implementing symbol table.
+Also, ensured semantic correctness by implementing a symbol table.
 
-Output the jasmin assembly instructions, and test by Java Virtual Machine (JVM)
+Generated Jasmin assembly instructions and tested the compiler on the Java Virtual Machine.
+
 
 ## Environment
 
