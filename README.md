@@ -13,6 +13,9 @@ Ubuntu18.04
 
 ## How to test
 
+- Install dependencies: `sudo apt install flex bison git python3 python3-pip`
+- Download repository `git clone https://github.com/PCu1106/muGo-Compiler.git`
+- Enter repository directory: `cd muGo-Compiler/`
 - Build your compiler by `make` command and you will get an executable named
 `mycompiler`.
 - Run your compiler using the command `$ ./mycompiler < input.go` , which is built by
